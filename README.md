@@ -45,7 +45,7 @@ It was developed as part of my **professional portfolio** to showcase skills rel
 
 By simulating a business use case — connecting a restaurant chain’s offline packaging with online reviews — this project highlights technical problem-solving, design thinking, and production readiness.
 
----
+
 
 
 
